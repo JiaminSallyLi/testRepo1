@@ -1,3 +1,6 @@
-import pandas as pd
+
 
 print("hello world")
+
+
+# with this snippet from hello.py:
